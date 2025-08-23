@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Ahsan Javaid  
 
-<!--
-**ehsanjavaid/ehsanjavaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frappe Developer | ⚙️ Python Enthusiast 
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: Frappe Apps & ERPNext Customization  
+- 🌱 Learning: Vue 3, React, and AI/ML  
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ahsan-javaid-75032319b/) | [Email](mailto:ehsanjavaid321@gmail.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python | JavaScript | Frappe | ERPNext | Vue | React  
+- Databases: MariaDB | SQLite  
+
+## 📊 GitHub Stats
+![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsanjavaid&show_icons=true&theme=radical)  
+
+## 🔗 Featured Projects
+- [Frappe ERPNext Snippets Extension](https://github.com/ehsanjavaid/frappe-erpnext-snippets)
+- [Library Management System]((https://github.com/ehsanjavaid/Library-Mangement))
