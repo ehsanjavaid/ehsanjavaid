@@ -22,11 +22,13 @@ Hi there 👋, I'm Ahsan Javaid
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ehsanjavaid&theme=tokyonight" alt="Profile Summary" /> </p>
 
 🔥 Contributions & Activity
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehsanjavaid&theme=tokyonight" alt="GitHub Streak" /> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ehsanjavaid&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 
 🌐 Connect with Me
 
-💼 https://www.linkedin.com/in/ahsan-javaid-75032319b/
+💼 Linkedin: https://www.linkedin.com/in/ahsan-javaid-75032319b/
 
 📧 Email: ehsanjavaid321@gmail.com
