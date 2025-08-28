@@ -21,8 +21,6 @@ Hi there 👋, I'm Ahsan Javaid
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanjavaid&layout=compact&theme=tokyonight" alt="Top Languages" /> </p> 
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ehsanjavaid&theme=tokyonight" alt="Profile Summary" /> </p>
 
-🔥 Contributions & Activity
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ehsanjavaid&theme=dark&exclude_days=Sun%2CMon)](https://git.io/streak-stats)
 
 
 
