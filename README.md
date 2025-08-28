@@ -22,7 +22,7 @@ Hi there 👋, I'm Ahsan Javaid
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ehsanjavaid&theme=tokyonight" alt="Profile Summary" /> </p>
 
 🔥 Contributions & Activity
-[![GitHub Streak](https://streak-stats.demolab.com?user=ehsanjavaid&theme=dark&exclude_days=Sun%2CMon)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ehsanjavaid&theme=dark&exclude_days=Sun%2CMon)]
 
 
 🌐 Connect with Me
