@@ -1,56 +1,90 @@
+# 👋 Hi, I'm Ahsan Javaid
 
-#👋 Hi, I'm Ahsan Javaid
-
-💻 **Frappe & ERPNext Developer | Python Backend Specialist | ERP Solutions Architect**
-
----
-
-## 🚀 About Me
-
-I’m a passionate **Frappe & ERPNext Developer** with hands-on experience building and customizing large-scale ERP systems — especially in **Education and HR domains**.
-
-🔹 Experienced in developing and customizing ERPNext modules (Education, HRMS, Accounts)
-🔹 Built scalable solutions handling **1400+ student portals & multi-admin environments**
-🔹 Strong backend focus with clean architecture and performance optimization
-🔹 Skilled in writing custom reports, scripts, workflows, and API integrations
-🔹 Comfortable managing production servers (Linux, Fail2Ban, SSH, Bench, Nginx)
-🔹 Always focused on writing **clean, maintainable, and efficient code**
+💼 **ERPNext & Frappe Developer | Business Automation Specialist | Freelance ERP Consultant**
 
 ---
 
-## 🏗️ What I Work On
+## 🚀 Helping Businesses Automate & Scale with ERPNext
 
-✔ Custom ERPNext Applications
-✔ HR & Payroll System Customization
-✔ Education Management Systems
-✔ Script Reports & Print Formats
-✔ REST API Development & Integrations
-✔ Performance Optimization & Server Deployment
-✔ Multi-site ERPNext Deployment
+I help **schools, institutes, and businesses** build powerful, scalable, and customized ERP solutions using **Frappe & ERPNext**.
+
+If you're looking to:
+
+✔ Digitize your school or company operations
+✔ Manage 1000+ users smoothly
+✔ Customize ERPNext according to your workflow
+✔ Build APIs & integrations
+✔ Deploy ERPNext securely on production servers
+
+You're in the right place.
+
+---
+
+## 💼 What I Can Do For You
+
+### 🎓 Education ERP Solutions
+
+* Student Information System setup
+* 1400+ student portal management
+* Fee management & automation
+* Guardian & reporting systems
+* Custom script reports & print formats
+
+### 👨‍💼 HR & Payroll Customization
+
+* HRMS customization
+* Payroll workflows
+* Employee lifecycle automation
+* Custom approval systems
+
+### ⚙️ ERPNext Custom Development
+
+* Custom Apps & Modules
+* Workflow automation
+* Role-based permission systems
+* REST API integrations
+* Data migration & system optimization
+
+### 🌐 Deployment & Server Management
+
+* Linux server setup
+* Bench production deployment
+* Nginx & Supervisor configuration
+* Fail2Ban security hardening
+* Performance optimization for high users
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🔹 Languages
-
+**Languages:**
 Python | JavaScript | SQL
 
-### 🔹 Frameworks & Platforms
-
+**Frameworks & Platforms:**
 Frappe Framework | ERPNext | Vue.js | React | Tailwind CSS
 
-### 🔹 Databases
-
+**Databases:**
 MariaDB | MySQL | SQLite
 
-### 🔹 DevOps & Tools
-
-Git | Linux | Bench CLI | Nginx | Supervisor | REST APIs | VS Code
+**DevOps & Tools:**
+Git | Linux | Bench CLI | Nginx | Supervisor | REST APIs
 
 ---
 
-## 📈 GitHub Stats
+## 🎯 Why Work With Me?
+
+✔ Business-focused solutions (not just coding)
+✔ Clean & maintainable code
+✔ Scalable architecture for 1000+ users
+✔ Performance-optimized systems
+✔ Long-term support mindset
+✔ Clear communication & professional delivery
+
+I don’t just build features — I build systems that **work reliably in real business environments.**
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=ehsanjavaid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />  
@@ -60,13 +94,9 @@ Git | Linux | Bench CLI | Nginx | Supervisor | REST APIs | VS Code
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanjavaid&layout=compact&theme=tokyonight" alt="Top Languages" />  
 </p>  
 
-<p align="center">  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ehsanjavaid&theme=tokyonight" alt="Profile Summary" />  
-</p>  
-
 ---
 
-## 🌐 Connect With Me
+## 📬 Let's Work Together
 
 💼 LinkedIn:
 [https://www.linkedin.com/in/ahsan-javaid-75032319b/](https://www.linkedin.com/in/ahsan-javaid-75032319b/)
@@ -74,14 +104,3 @@ Git | Linux | Bench CLI | Nginx | Supervisor | REST APIs | VS Code
 📧 Email:
 [ehsanjavaid321@gmail.com](mailto:ehsanjavaid321@gmail.com)
 
----
-
-If you want, I can also:
-
-* 🔥 Make it more **corporate/professional**
-* 💎 Make it more **freelancer/client-focused**
-* 🧠 Make it more **technical & developer-attractive**
-* 🌍 Add a **portfolio section**
-* 📊 Add a **Projects showcase section**
-
-Tell me which style you prefer.
