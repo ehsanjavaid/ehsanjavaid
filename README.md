@@ -84,17 +84,6 @@ I don’t just build features — I build systems that **work reliably in real b
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=ehsanjavaid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />  
-</p>  
-
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanjavaid&layout=compact&theme=tokyonight" alt="Top Languages" />  
-</p>  
-
----
 
 ## 📬 Let's Work Together
 
