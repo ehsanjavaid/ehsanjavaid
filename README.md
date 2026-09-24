@@ -87,9 +87,6 @@ I don’t just build features — I build systems that **work reliably in real b
 
 ## 📬 Let's Work Together
 
-💼 LinkedIn:
-[https://www.linkedin.com/in/ahsan-javaid-75032319b/](https://www.linkedin.com/in/ahsan-javaid-75032319b/)
-
 📧 Email:
 [ehsanjavaid321@gmail.com](mailto:ehsanjavaid321@gmail.com)
 
